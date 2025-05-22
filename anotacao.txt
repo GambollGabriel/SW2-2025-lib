@@ -1,0 +1,11 @@
+1° == compose update => atualiza as bibliotecas que estão na pasta vender (não mecha nela).
+
+3° == driver => qual banco de dados vai usar.
+
+4° == host => Ospedeiro. Onde o servidor de banco de dados está.
+
+5° == Port => Porta onde o banco de dados está rodando. 
+
+6° == ./doctrine orm:schema-tool:create => ./doctrine ( mostra o arquivo )  orm:schema-tool: (  )
+
+7° == docker compose up -d => vai ler o "docker-compose.yml" nesse arquivo ele abre 
